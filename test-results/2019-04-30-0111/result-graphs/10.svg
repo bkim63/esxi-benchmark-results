@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!--Phoronix Test Suite v5.2.1 (Khanino) [ http://www.phoronix-test-suite.com/ ]-->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" font-family="sans-serif" viewbox="0 0 600 184" width="600" height="184" preserveAspectRatio="xMinYMin meet">
+  <rect x="1" y="1" width="598" height="183" fill="#FEFEFE" stroke="#757575" stroke-width="1"/>
+  <line x1="218" y1="64" x2="218" y2="110" stroke="#757575" stroke-width="1"/>
+  <line x1="218" y1="110" x2="585" y2="110" stroke="#757575" stroke-width="1"/>
+  <a xlink:href="http://www.phoronix-test-suite.com/" xlink:show="new">
+    <text x="585" y="59" font-size="7" fill="#065695" text-anchor="end" xlink:show="new">PHORONIX-TEST-SUITE.COM</text>
+  </a>
+  <polygon points="227,56 218,60.5 218,51.5" fill="#065695" stroke="#949494" stroke-width="1"/>
+  <text x="230" y="59" font-size="7" fill="#065695" text-anchor="start">MB/s, More Is Better</text>
+  <rect x="0" y="0" width="600" height="48" fill="#231f20"/>
+  <a xlink:href="http://openbenchmarking.org/test/pts/ramspeed-1.4.2" xlink:show="new">
+    <text x="6" y="19" font-size="17" fill="#FEFEFE" text-anchor="start" xlink:show="new">RAMspeed SMP v3.5.0</text>
+  </a>
+  <text x="6" y="36" font-size="11" fill="#FEFEFE" text-anchor="start">Type: Triad - Benchmark: Floating Point</text>
+  <a xlink:href="http://www.phoronix-test-suite.com/" xlink:show="new">
+    <image xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE0AAAAoCAYAAAC7MHdZAAACtElEQVR4Ae3YA8xcTRhH8flsG7Vt27Ztuw1q21ZQ23aD2rZt2z3x5Mny7p19Nf/kF63P+qoPHz6Y1BAHNeugojrTN9AF+q5CRU022g8YKWS30Xz7G3JNbTQbLWQ2mo1mo9lonyAT+mEZdmMPlmMwsuGTMEX7Fm0xD+fw0IHUpqMVx1H42wmUMxwtF84i1KUzFe0bzEKwW4IfDERLg9dgkTPaD9gNpzuCX12M9iUOgUXOaJ9iObztLGZiOk7hPTxtMz73Ee0xevpRHwrlIfcE49HWgT/cjtYYnrYasaGEf7AEntZBRgtyW6HQF/reI6Hhb8/qGKnp5C3ad7gBuVZQfniKfRc/uhBtKfRtgzIcbSr0nfQWrTrkpkEFaDLkGrgQbRz0Pca3kSXaXOi7g5+gAvQ9rkPfKi/R3uKiHwuh0BByi5AZP/nxg+loJ6FvOVSQZkPfbRe+PWPjKZzuOpahjolo96Cvj4No7SD3tZNoQgu4sQ2I5Wa0t9DX0EG02pD7BW2h7xk+DeJ6P8FkuLH9+MJUtAYOoo2UcaBQBXLJoIJUDucR6npGpmjboe8AFNJDrg6UQ78gD8r6UQFT8Rz67jmIVlSeMfRo4krF5+InkN+s5/EdVBi0gVz8iI72Ay5DLpV468qNhwqDOJArGZHR0uEQ5BaJ8/2Jx17O9xeUQY0gl8REtPb424s0qItJeA25x0gMJTSDp93FeDRCVqSV/y/xL9IGKQN64jb0PcInBqI53juUgvJiQjB/ozTD4dbGQkWWaM9QCcqHTzEkAqOdw3eRJdpucYDPn4q4HOZop5AGKiKjvcRqVMEnUEH6Bi2xAa8NRXuPsxiGb6BMRhuLsl4UQHJ8C+WSz/E3Urr4RZAaP/h50poKyZEFVTXFEUue18FPDstGs9FsNBvNRgsDG81Gsz4Cz8jtMPGivBEAAAAASUVORK5CYII=" x="508" y="3.2" width="77" height="40"/>
+  </a>
+  <line x1="218" y1="110" x2="218" y2="110" stroke="#757575" stroke-width="10" stroke-dasharray="1,45"/>
+  <text x="213" y="85" font-size="10" fill="#231f20" text-anchor="end">Virtual disk - Intel Core i5 660</text>
+  <text x="279" y="125" font-size="10" fill="#065695" text-anchor="middle">2000</text>
+  <line x1="281" y1="64" x2="281" y2="105" stroke="#BABABA" stroke-width="1" stroke-dasharray="5,5"/>
+  <line x1="281" y1="106" x2="281" y2="114" stroke="#757575" stroke-width="1"/>
+  <text x="340" y="125" font-size="10" fill="#065695" text-anchor="middle">4000</text>
+  <line x1="342" y1="64" x2="342" y2="105" stroke="#BABABA" stroke-width="1" stroke-dasharray="5,5"/>
+  <line x1="342" y1="106" x2="342" y2="114" stroke="#757575" stroke-width="1"/>
+  <text x="401" y="125" font-size="10" fill="#065695" text-anchor="middle">6000</text>
+  <line x1="403" y1="64" x2="403" y2="105" stroke="#BABABA" stroke-width="1" stroke-dasharray="5,5"/>
+  <line x1="403" y1="106" x2="403" y2="114" stroke="#757575" stroke-width="1"/>
+  <text x="462" y="125" font-size="10" fill="#065695" text-anchor="middle">8000</text>
+  <line x1="464" y1="64" x2="464" y2="105" stroke="#BABABA" stroke-width="1" stroke-dasharray="5,5"/>
+  <line x1="464" y1="106" x2="464" y2="114" stroke="#757575" stroke-width="1"/>
+  <text x="523" y="125" font-size="10" fill="#065695" text-anchor="middle">10000</text>
+  <line x1="525" y1="64" x2="525" y2="105" stroke="#BABABA" stroke-width="1" stroke-dasharray="5,5"/>
+  <line x1="525" y1="106" x2="525" y2="114" stroke="#757575" stroke-width="1"/>
+  <rect x="218" y="70" width="286" height="34" fill="#065695" stroke="#949494" stroke-width="1" xlink:title="Virtual disk - Intel Core i5 660: 9358.85"/>
+  <text x="213" y="100.8" font-size="8" fill="#065695" text-anchor="end">SE +/- 0.00</text>
+  <text x="499" y="93" font-size="10" fill="#FFFFFF" text-anchor="end">9358.85</text>
+  <line x1="218" y1="110" x2="585" y2="110" stroke="#757575" stroke-width="1"/>
+  <rect x="0" y="132" width="600" height="52" fill="#231f20"/>
+  <a xlink:href="http://www.phoronix-test-suite.com/" xlink:show="new">
+    <text x="585" y="144" font-size="9" fill="#FEFEFE" text-anchor="end" xlink:show="new">Phoronix Test Suite 5.2.1</text>
+  </a>
+  <text x="5" y="158" font-size="8" fill="#FEFEFE" text-anchor="start" xlink:title="-O3 -march=native" width="595">1. (CC) gcc options: -O3 -march=native</text>
+</svg>

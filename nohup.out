@@ -1,0 +1,236 @@
+
+Phoronix Test Suite v5.2.1
+
+    Installed: pts/mpcbench-1.0.1
+    Installed: pts/ramspeed-1.4.2
+    Installed: pts/dcraw-1.1.0
+    Installed: pts/compress-7zip-1.7.0
+    Installed: pts/postmark-1.1.1
+
+System Information
+
+Hardware:
+Processor: Intel Core i5 660 @ 3.32GHz (4 Cores), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 11GB Virtual disk, Graphics: VMware SVGA II, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 16.04, Kernel: 4.4.0-142-generic (x86_64), Compiler: GCC 5.4.0 20160609, File-System: ext4, Screen Resolution: 1176x885, System Layer: VMware
+
+
+
+PostMark 1.51:
+    pts/postmark-1.1.1
+    Test 1 of 14
+    Estimated Trial Run Count:    3
+    Estimated Test Run-Time:      1 Hour, 29 Minutes
+    Estimated Time To Completion: 2 Hours, 11 Minutes
+        Started Run 1 @ 01:11:43
+        Started Run 2 @ 01:43:09
+        Started Run 3 @ 02:13:49  [Std. Dev: 2.26%]
+
+    Test Results:
+        132
+        136
+        138
+
+    Average: 135 TPS
+
+
+RAMspeed SMP 3.5.0:
+    pts/ramspeed-1.4.2 [Type: Add - Benchmark: Integer]
+    Test 2 of 14
+    Estimated Trial Run Count:    1
+    Estimated Test Run-Time:      4 Minutes
+    Estimated Time To Completion: 42 Minutes
+        Started Run 1 @ 02:44:05
+
+    Test Results:
+        9368.21
+
+    Average: 9368.21 MB/s
+
+
+RAMspeed SMP 3.5.0:
+    pts/ramspeed-1.4.2 [Type: Copy - Benchmark: Integer]
+    Test 3 of 14
+    Estimated Trial Run Count:    1
+    Estimated Test Run-Time:      4 Minutes
+    Estimated Time To Completion: 39 Minutes
+        Started Run 1 @ 02:47:25
+
+    Test Results:
+        8533.92
+
+    Average: 8533.92 MB/s
+
+
+RAMspeed SMP 3.5.0:
+    pts/ramspeed-1.4.2 [Type: Scale - Benchmark: Integer]
+    Test 4 of 14
+    Estimated Trial Run Count:    1
+    Estimated Test Run-Time:      4 Minutes
+    Estimated Time To Completion: 36 Minutes
+        Started Run 1 @ 02:50:45
+
+    Test Results:
+        8381.42
+
+    Average: 8381.42 MB/s
+
+
+RAMspeed SMP 3.5.0:
+    pts/ramspeed-1.4.2 [Type: Triad - Benchmark: Integer]
+    Test 5 of 14
+    Estimated Trial Run Count:    1
+    Estimated Test Run-Time:      4 Minutes
+    Estimated Time To Completion: 33 Minutes
+        Started Run 1 @ 02:54:06
+
+    Test Results:
+        9116.12
+
+    Average: 9116.12 MB/s
+
+
+RAMspeed SMP 3.5.0:
+    pts/ramspeed-1.4.2 [Type: Average - Benchmark: Integer]
+    Test 6 of 14
+    Estimated Trial Run Count:    1
+    Estimated Test Run-Time:      4 Minutes
+    Estimated Time To Completion: 30 Minutes
+        Started Run 1 @ 02:57:27
+
+    Test Results:
+        8838.89
+
+    Average: 8838.89 MB/s
+
+
+RAMspeed SMP 3.5.0:
+    pts/ramspeed-1.4.2 [Type: Add - Benchmark: Floating Point]
+    Test 7 of 14
+    Estimated Trial Run Count:    1
+    Estimated Test Run-Time:      4 Minutes
+    Estimated Time To Completion: 26 Minutes
+        Started Run 1 @ 03:00:47
+
+    Test Results:
+        9410.17
+
+    Average: 9410.17 MB/s
+
+
+RAMspeed SMP 3.5.0:
+    pts/ramspeed-1.4.2 [Type: Copy - Benchmark: Floating Point]
+    Test 8 of 14
+    Estimated Trial Run Count:    1
+    Estimated Test Run-Time:      4 Minutes
+    Estimated Time To Completion: 23 Minutes
+        Started Run 1 @ 03:04:05
+
+    Test Results:
+        8521.45
+
+    Average: 8521.45 MB/s
+
+
+RAMspeed SMP 3.5.0:
+    pts/ramspeed-1.4.2 [Type: Scale - Benchmark: Floating Point]
+    Test 9 of 14
+    Estimated Trial Run Count:    1
+    Estimated Test Run-Time:      4 Minutes
+    Estimated Time To Completion: 20 Minutes
+        Started Run 1 @ 03:07:22
+
+    Test Results:
+        8645.32
+
+    Average: 8645.32 MB/s
+
+
+RAMspeed SMP 3.5.0:
+    pts/ramspeed-1.4.2 [Type: Triad - Benchmark: Floating Point]
+    Test 10 of 14
+    Estimated Trial Run Count:    1
+    Estimated Test Run-Time:      4 Minutes
+    Estimated Time To Completion: 17 Minutes
+        Started Run 1 @ 03:10:40
+
+    Test Results:
+        9358.85
+
+    Average: 9358.85 MB/s
+
+
+RAMspeed SMP 3.5.0:
+    pts/ramspeed-1.4.2 [Type: Average - Benchmark: Floating Point]
+    Test 11 of 14
+    Estimated Trial Run Count:    1
+    Estimated Test Run-Time:      4 Minutes
+    Estimated Time To Completion: 14 Minutes
+        Started Run 1 @ 03:13:58
+
+    Test Results:
+        8983.53
+
+    Average: 8983.53 MB/s
+
+
+GNU MPC 1.1.0:
+    pts/mpcbench-1.0.1
+    Test 12 of 14
+    Estimated Trial Run Count:    3
+    Estimated Test Run-Time:      4 Minutes
+    Estimated Time To Completion: 10 Minutes
+        Started Run 1 @ 03:17:15
+        Started Run 2 @ 03:18:18
+        Started Run 3 @ 03:19:20  [Std. Dev: 0.13%]
+
+    Test Results:
+        4450
+        4440
+        4440
+
+    Average: 4443 Global Score
+
+
+7-Zip Compression 16.02:
+    pts/compress-7zip-1.7.0
+    Test 13 of 14
+    Estimated Trial Run Count:    3
+    Estimated Test Run-Time:      3 Minutes
+    Estimated Time To Completion: 7 Minutes
+        Started Run 1 @ 03:20:26
+        Started Run 2 @ 03:21:13
+        Started Run 3 @ 03:22:00  [Std. Dev: 1.65%]
+
+    Test Results:
+        7537
+        7519
+        7744
+
+    Average: 7600 MIPS
+
+
+dcraw:
+    pts/dcraw-1.1.0
+    Test 14 of 14
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 5 Minutes
+        Running Pre-Test Script @ 03:22:52
+        Started Run 1 @ 03:22:52
+        Running Interim Test Script @ 03:24:22
+        Started Run 2 @ 03:24:24
+        Running Interim Test Script @ 03:25:45
+        Started Run 3 @ 03:25:47  [Std. Dev: 2.37%]
+        Running Post-Test Script @ 03:27:10
+
+    Test Results:
+        85.069916963577
+        81.149007081985
+        82.853718996048
+
+    Average: 83.02 Seconds
+
+
+Results Uploaded To: https://openbenchmarking.org/result/1904304-ANBH-201904343
+
